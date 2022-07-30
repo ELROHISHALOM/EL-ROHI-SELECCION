@@ -1,0 +1,969 @@
+#EXTM3U
+#EXTINF:21,CANAL2 NIC - 125968
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125968
+#EXTINF:0,CANAL 4 NIC - 125976
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125976
+#EXTINF:0,CANAL 6 NIC - 125975
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125975
+#EXTINF:0,CANAL 8 NIC - 125969
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125969
+#EXTINF:0,CANAL 10 NIC - 125967
+http://00322.xyz:8000/malotv/gratis/125967
+#EXTINF:0,CANAL 11 NIC - 125973
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125973
+#EXTINF:0,CANAL 14 NIC - 125974
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125974
+#EXTINF:0,CANAL WTV NIC - 150656
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150656
+#EXTINF:0,CANAL +23 NIC - 125970
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125970
+#EXTINF:30,CANAL TICAVISION - chunklist_w1395545163.m3u8
+#EXTVLCOPT:network-caching=1000
+https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1395545163.m3u8
+#EXTINF:0,CANAL GOURMET - 138191
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/138191
+#EXTINF:0,CANAL FOOD NETWORK - 132600
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132600
+#EXTINF:0,CANAL TV SALUD - 4881
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4881
+#EXTINF:0,WOBI TV - 132599
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132599
+#EXTINF:0,HGTV - 138188
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/138188
+#EXTINF:0,HLN - 132579
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132579
+#EXTINF:0,GLITZ - 4956
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4956
+#EXTINF:0,E ENTERTAINTMENT - 4936
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4936
+#EXTINF:0,UCV - 4909
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4909
+#EXTINF:0,HOLA TV - 132595
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132595
+#EXTINF:0,FILM & ARTS - 135781
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135781
+#EXTINF:0,HISTORY - 132592
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132592
+#EXTINF:0,HISTORY 2 - 132580
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132580
+#EXTINF:0,DISCOVERY THEATER - 135678
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135678
+#EXTINF:0,DISCOVERY CHANNEL - 135821
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135821
+#EXTINF:0,DISCOVERY CHANNEL - 132583
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132583
+#EXTINF:0,DISCOVERY TURBO - 132587
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132587
+#EXTINF:0,DISCOVERY SCI - 132585
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132585
+#EXTINF:0,DISCOVERY HOME AND HEALTH H&H - 132578
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132578
+#EXTINF:0,DISCOVERY WORLD - 132590
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132590
+#EXTINF:0,DISCOVERY ID INVESTIGATION DISCOVERY - 132576
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132576
+#EXTINF:0,CRIME INVESTIGATION 24/7 - 129351
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129351
+#EXTINF:0,UNIVERSAL CRIME - 4947
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4947
+#EXTINF:0,DISCOVERY ANIMAL PLANET - 132572
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132572
+#EXTINF:0,NAT GEO WILD - 132577
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132577
+#EXTINF:0,NATIONAL GEOGRAPHIC - 132575
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132575
+#EXTINF:0,LA FAMILIA PELUCHE 24/7 - 152821
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/152821
+#EXTINF:0,CANTINFLAS ANIMADO 24/7 - 150692
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150692
+#EXTINF:0,EL CHAPULIN COLORADO ANIMADO 24/7 - 140845
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/140845
+#EXTINF:0,EL CHAVO DEL 8 ANIMADO 24/7 - 131452
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131452
+#EXTINF:0,EL CHAVO DEL 8 - 129315
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129315
+#EXTINF:0,CHESPIRITO 24/7 - 129322
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129322
+#EXTINF:0,EL CHAPULIN COLORADO 24/7 - 129323
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129323
+#EXTINF:0,MR BEAN 24/7 - 3391
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3391
+#EXTINF:0,ALF 24/7 - 129321
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129321
+#EXTINF:0,EL PRINCIPE DEL RAP DE BELL AIR 24/7 - 129317
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129317
+#EXTINF:0,HE-MAN 24/7 - 129376
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129376
+#EXTINF:0,BIRDMAN 24/7 - 140844
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/140844
+#EXTINF:0,XMEN ANIMADO 24/7 - 129386
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129386
+#EXTINF:0,LOS CABALLEROS DEL ZOODIACO 24/7 - 3397
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3397
+#EXTINF:0,DRAGON BALL GT 24/7 - 129334
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129334
+#EXTINF:0,DRAGON BALL  24/7 - 129328
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129328
+#EXTINF:0,DRAGON BALL Z 24/7 - 129329
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129329
+#EXTINF:0,DRAGON BALL SUPER 24/7 - 129326
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129326
+#EXTINF:0,BATMAN LA SERIE ANIMADA 24/7 - 3361
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3361
+#EXTINF:0,SPIDERMAN ANIMADO 24/7 - 129362
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129362
+#EXTINF:0,ONE PUNCH MAN 24/7 - 129342
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129342
+#EXTINF:0,LOS PICAPIEDRAS 24/7 - 129349
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129349
+#EXTINF:0,LA PANTERA ROSA 24/7 - 129347
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129347
+#EXTINF:0,DICK TRACY 24/7 - 140847
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/140847
+#EXTINF:21,DANIEL EL TRAVIESO 24/7 - 140846
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/140846
+#EXTINF:0,EL PAJARO LOCO 24/7 - 129336
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129336
+#EXTINF:0,EL GATO COSMICO 24/7 - 129335
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129335
+#EXTINF:0,SUPER CAMPEONES 24/7 - 129319
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129319
+#EXTINF:0,CINE INFANTIL 24/7 - 2554
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2554
+#EXTINF:0,TOM Y JERRY 24/7 - 129327
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129327
+#EXTINF:0,DINOSAURIOS 24/7 - 129314
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129314
+#EXTINF:0,ATV HD - 4876
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4876
+#EXTINF:0,RTS - 4908
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4908
+#EXTINF:0,TELESUR - 4874
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4874
+#EXTINF:0,CAPITAL - 4849
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4849
+#EXTINF:0,LATINA - 4866
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4866
+#EXTINF:0,TVE +16 - 4865
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4865
+#EXTINF:0,HISPANTV - 139474
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/139474
+#EXTINF:0,CNN ESPAÑOL - 141353
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/141353
+#EXTINF:0,CNN CHILE - 141352
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/141352
+#EXTINF:0,CNC NOTICIAS TULUA - 151644
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151644
+#EXTINF:0,TELEMUNDO INTERNACIONAL - 2053
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2053
+#EXTINF:0,DW - 141388
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/141388
+#EXTINF:0,RT RUSSIA TODAY ESPAÑOL - 150361
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150361
+#EXTINF:0,TELESUR - 4880
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4880
+#EXTINF:0,24 NOTICIAS - 4842
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4842
+#EXTINF:0,NTN24 - 141383
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/141383
+#EXTINF:0,A24 - 4906
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4906
+#EXTINF:0,ADN40 - 129046
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129046
+#EXTINF:60,ESTRELLA NEWS - playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=crCo6_MNaknxeWhsxysV&channelId=60089d97f682a3002c34829b
+#EXTVLCOPT:network-caching=1000
+https://estrellanews-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=crCo6_MNaknxeWhsxysV&channelId=60089d97f682a3002c34829b
+#EXTINF:54,ESTRELLA TV - playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=crCo6_MNaknxeWhsxysV&channelId=60089d98f682a3002c34829f
+#EXTVLCOPT:network-caching=1000
+https://estrellatv-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=crCo6_MNaknxeWhsxysV&channelId=60089d98f682a3002c34829f
+#EXTINF:0,TV PERU NOTICIAS - 150360
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150360
+#EXTINF:0,C9N - 4846
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4846
+#EXTINF:0,RPP - 4845
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4845
+#EXTINF:0,LAS ESTRELLAS - 129048
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129048
+#EXTINF:0,CANAL TN23 - 151407
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151407
+#EXTINF:0,CABLE NOTICIAS - 3587
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3587
+#EXTINF:0,TV PE NOTICIAS - 4838
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4838
+#EXTINF:0,TVN - 3307
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3307
+#EXTINF:0,MEGA TV - 131682
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131682
+#EXTINF:0,MEGA - 4855
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4855
+#EXTINF:0,26 - 4907
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4907
+#EXTINF:0,BOLIVISION HD - 131697
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131697
+#EXTINF:0,VENEVISION - 4871
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4871
+#EXTINF:0,GLOBOVISION - 4826
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4826
+#EXTINF:0,ON - 4834
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4834
+#EXTINF:0,ON - 4835
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4835
+#EXTINF:0,NPY - 4888
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4888
+#EXTINF:0,DTV - 4920
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4920
+#EXTINF:0,TLT - 4831
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4831
+#EXTINF:0,AMERICA TV - 145746
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145746
+#EXTINF:0,AMERICA VIVO - 3567
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3567
+#EXTINF:0,TN - 3556
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3556
+#EXTINF:0,LN - 3538
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3538
+#EXTINF:0,TVES - 4897
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4897
+#EXTINF:0,TN - 135783
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135783
+#EXTINF:0,EL 13 - 3568
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3568
+#EXTINF:0,CANAL 12 - 3563
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3563
+#EXTINF:0,N VIVO - 3536
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3536
+#EXTINF:0,EL 9 TLN - 3542
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3542
+#EXTINF:0,ATB - 4903
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4903
+#EXTINF:0,9 TELEVIDA - 146364
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/146364
+#EXTINF:0,TL ESTRELLA - 141630
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/141630
+#EXTINF:0,SEO TV - 141629
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/141629
+#EXTINF:0,TP UNITEL HD  - 131698
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131698
+#EXTINF:0,TP UNITEL HD - 131692
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131692
+#EXTINF:0,TP UNITEL HD - 131691
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131691
+#EXTINF:0,UMAGTV - 151780
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151780
+#EXTINF:0,PAT - 131670
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131670
+#EXTINF:0,XTO TV - 131693
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131693
+#EXTINF:0,RTP - 131684
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131684
+#EXTINF:0,BTV - 131674
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131674
+#EXTINF:0,BTV - 131665
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131665
+#EXTINF:0,TVU - 131664
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131664
+#EXTINF:0,UNICANAL - 4895
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4895
+#EXTINF:0,CADENA ELITE - 131679
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131679
+#EXTINF:0,ULAGOS TV - 151779
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151779
+#EXTINF:0,CANAL 2 ALPAVISION - 151645
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151645
+#EXTINF:0,ENLACE 13 COLOMBIA - 151643
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151643
+#EXTINF:0,CALI TV - 151642
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151642
+#EXTINF:0,TELEANTIOQUIA - 151051
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151051
+#EXTINF:0,MI GENTE - 150372
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150372
+#EXTINF:0,RCN - 3576
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3576
+#EXTINF:0,RCN - 3575
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3575
+#EXTINF:0,RCN NOVELAS - 3577
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3577
+#EXTINF:0,EL HERALDO NOTICIAS - 148883
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/148883
+#EXTINF:0,CARACOL NOTICIAS - 3574
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3574
+#EXTINF:0,CARACOL INTERNACIONAL - 3573
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3573
+#EXTINF:0,CANAL 1 COLOMBIA - 3570
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3570
+#EXTINF:0,CARACOL TV - 4810
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4810
+#EXTINF:0,PERU MAGICO - 4900
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4900
+#EXTINF:0,CANAL 31.1 SUR - 4893
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4893
+#EXTINF:0,SNT - 4892
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4892
+#EXTINF:0,TRECE 3.1 DIGITAL - 4891
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4891
+#EXTINF:0,CANAL 19.1 - 4890
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4890
+#EXTINF:0,MULTICANAL - 4899
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4899
+#EXTINF:0,CANAL TRO - 4898
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4898
+#EXTINF:0,LA TELE - 4887
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4887
+#EXTINF:0,GEN - 4885
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4885
+#EXTINF:0,CONCIENCIA TV - 4878
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4878
+#EXTINF:0,TELEVEN - 4868
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4868
+#EXTINF:0,1 - 4861
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4861
+#EXTINF:0,SEÑAL COLOMBIA - 4875
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4875
+#EXTINF:0,TELE PACIFICO - 4863
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4863
+#EXTINF:0,CHV CHILE VISION - 4852
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4852
+#EXTINF:0,A3D - 4862
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4862
+#EXTINF:0,ETC - 4822
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4822
+#EXTINF:0,7 ECUADOR TV - 4821
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4821
+#EXTINF:0,CANAL 10 EL SALVADOR - 152577
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/152577
+#EXTINF:0,CANAL 11 EL SALVADOR - 151809
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151809
+#EXTINF:0,CANAL 2 EL SALVADOR - 126544
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126544
+#EXTINF:0,CANAL 4 EL SALVADOR - 126540
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126540
+#EXTINF:0,CANAL 19 EL SALVADOR - 126541
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126541
+#EXTINF:0,CANAL 21 EL SALVADOR - 126542
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126542
+#EXTINF:0,CNBC ENGLISH - 148828
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/148828
+#EXTINF:0,CHEDDAR NEWS - 148802
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/148802
+#EXTINF:0,BBC WORLD NEWS - 141387
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/141387
+#EXTINF:0,FOX NEWS - 132637
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132637
+#EXTINF:0,COMEDY CENTRAL - 4924
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4924
+#EXTINF:0,CORTOS - 146365
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/146365
+#EXTINF:0,NARCOS 24/7 - 145806
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145806
+#EXTINF:0,CLARO CINEMA - 4848
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4848
+#EXTINF:0,CINE LATINO 24/7 - 2558
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2558
+#EXTINF:0,CINE LATINO - 4921
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4921
+#EXTINF:0,CINEMA DINAMITA - 4806
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4806
+#EXTINF:0,CINE CANAL - 4805
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4805
+#EXTINF:0,D PELICULA - 138187
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/138187
+#EXTINF:0,DE PELICULA PLUS - 135785
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135785
+#EXTINF:0,CINE SUREÑO 24/7 - 129365
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129365
+#EXTINF:0,EURO CHANNEL - 146594
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/146594
+#EXTINF:0,EUROPA - 4825
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4825
+#EXTINF:0,GAME OF THRONES 24/7 - 129330
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129330
+#EXTINF:0,ATV DIGITAL - 148891
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/148891
+#EXTINF:0,A&E - 135653
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135653
+#EXTINF:0,A3CINE - 2553
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2553
+#EXTINF:0,AMC - 135656
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135656
+#EXTINF:0,TCM - 4804
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4804
+#EXTINF:0,AXN - 4844
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4844
+#EXTINF:0,FX - 4788
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4788
+#EXTINF:0,FX - 4955
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4955
+#EXTINF:0,CINEMAX ENGLISH - 4829
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4829
+#EXTINF:0,SPACE - 4802
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4802
+#EXTINF:0,I.SAT ENGLISH - 132597
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/132597
+#EXTINF:0,SONY - 4801
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4801
+#EXTINF:0,TBS - 4803
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4803
+#EXTINF:0,MP MULTI PREMIER - 70
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/70
+#EXTINF:0,HBO - 4796
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4796
+#EXTINF:0,HBO 2 - 4797
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4797
+#EXTINF:0,HBO PLUS - 4799
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4799
+#EXTINF:0,HBO MUNDI - 4800
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4800
+#EXTINF:0,HBO FAMILY - 4798
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4798
+#EXTINF:0,HBO XTREME ENGLISH - 135677
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135677
+#EXTINF:0,HBO SIGNATURE - 4965
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4965
+#EXTINF:0,HBO POP - 5065
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/5065
+#EXTINF:0,DISNEY CHANNEL - 4793
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4793
+#EXTINF:0,STAR CHANNEL - 4784
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4784
+#EXTINF:0,STAR CHANNEL - 4944
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4944
+#EXTINF:0,STARZ KIDS AND FAMILY ESPAÑOL - 148541
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/148541
+#EXTINF:0,TNT SERIES - 5024
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/5024
+#EXTINF:0,PARAMOUNT  - 135670
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135670
+#EXTINF:0,WARNER BROTHERS TV - 135664
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135664
+#EXTINF:0,STUDIO - 135659
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135659
+#EXTINF:0,UNIVERSAL PREMIER - 4789
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4789
+#EXTINF:0,UNIVERSAL PREMIER - 4785
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4785
+#EXTINF:0,UNIVERSAL TV - 4950
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4950
+#EXTINF:0,UNIVERSAL TV - 135663
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135663
+#EXTINF:0,UNIVERSAL CINEMA - 4946
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4946
+#EXTINF:0,UNIVERSAL REALITY - 4943
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4943
+#EXTINF:0,UNIVERSAL COMEDY - 4945
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4945
+#EXTINF:0,FOX LIFE - 4948
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4948
+#EXTINF:0,LIFETIME - 4979
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4979
+#EXTINF:0,GOLDEN - 4957
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4957
+#EXTINF:0,GOLDEN PLUS - 3648
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3648
+#EXTINF:0,CINEMA+ HD - 151651
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151651
+#EXTINF:0,A3SERIES - 126387
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126387
+#EXTINF:0,AME - 131872
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131872
+#EXTINF:0,PERU CAJAMARCA - 151465
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151465
+#EXTINF:0,BHTV - 151463
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151463
+#EXTINF:0,TNT - 126373
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126373
+#EXTINF:0,FOX - 126371
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126371
+#EXTINF:0,MOVIESTAR SERIES - 126355
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126355
+#EXTINF:0,TV AZTECA GUATE - 145748
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145748
+#EXTINF:0,CANAL 12 REP DOM - 131904
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131904
+#EXTINF:0,AZTECA CINEMA - 145509
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145509
+#EXTINF:0,CITY TV - 4867
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4867
+#EXTINF:0,BELLA ASUNCION - 151456
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151456
+#EXTINF:0,CUBAPLAY - 126549
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126549
+#EXTINF:0,TCS PLUS - 126539
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126539
+#EXTINF:0,MASTV - 125918
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125918
+#EXTINF:0,WOW TV - 145741
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145741
+#EXTINF:0,CANAL 12 - 126545
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126545
+#EXTINF:0,TELERED - 125917
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125917
+#EXTINF:0,CANAL 6 EL SALVADOR - 126543
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126543
+#EXTINF:0,CANAL VISION DORADA - 146591
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/146591
+#EXTINF:0,PELICULAS ROMANCE 24/7 - 131454
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/131454
+#EXTINF:0,CINE ROMANCE HD 24/7 - 2562
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2562
+#EXTINF:0,MATRIX 24/7 - 129381
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129381
+#EXTINF:0,SCARY MOVIE 24/7 - 129380
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129380
+#EXTINF:0,RESIDENT EVIL 24/7 - 129379
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129379
+#EXTINF:0,JOHN WICK 24/7 - 129378
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129378
+#EXTINF:21,HARRY POTTER 24/7 - 129377
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129377
+#EXTINF:0,CREPUSCULO 24/7 - 129374
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129374
+#EXTINF:0,INFRAMUNDO 24/7 - 129373
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129373
+#EXTINF:0,XMEN PELICULAS 24/7 - 129375
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129375
+#EXTINF:0,MARVEL 24/7 - 129366
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129366
+#EXTINF:0,BREAKING BAD 24/7 - 3364
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/3364
+#EXTINF:0,DRAMA MOVISTAR 24/7 - 129369
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129369
+#EXTINF:0,TEMES A LA OSCURIDAD 24/7 - 129368
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/129368
+#EXTINF:0,CINE TERROR HD 24/7 - 2564
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2564
+#EXTINF:0,CINE TERROR 24/7  - 2563
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2563
+#EXTINF:0,MY TIME MOVIE LATINO 24/7 - 2559
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2559
+#EXTINF:0,CINE FICCION FANTASIA 24/7 - 2552
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2552
+#EXTINF:21,CINE FICCION FANTASIA 1 - 2550
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2550
+#EXTINF:0,CINE FICCION FANTASIA 2 - 2551
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2551
+#EXTINF:0,CINE FICCION/FANTASIA SAGAS 24/7 - 2553
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2553
+#EXTINF:0,CINE COMEDIA 1 24/7 - 2548
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2548
+#EXTINF:0,CSI MIAMI 24/7 - 2547
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2547
+#EXTINF:0,CINE ACCION 3 24/7 - 2546
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2546
+#EXTINF:0,CINE ACCION 2 24/7 - 2544
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/2544
+#EXTINF:0,TV5 MONDE - 135880
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135880
+#EXTINF:0,CANAL ORBE 21 CRISTIANO - 4832
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4832
+#EXTINF:0,ENLACE CRISTIANO - 4937
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4937
+#EXTINF:0,VIDA TV CRISTIANO - 151783
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151783
+#EXTINF:0,HOSSANA TV CRISTIANO - 151801
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151801
+#EXTINF:0,UNIDAD EVANGELICA CRISTIANO - 151781
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151781
+#EXTINF:0,VC ONLINE CRISTIANO - 151782
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151782
+#EXTINF:0,YES HE IS CRISTIANO - 135045
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135045
+#EXTINF:0,ESPERANZA TV CRISTIANO  - 125915
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125915
+#EXTINF:0,EBENEZER CRISTIANO - 125930
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125930
+#EXTINF:0,ELIM TV CRISTIANO - 151805
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/151805
+#EXTINF:0,TABER TV CRISTIANO - 152950
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/152950
+#EXTINF:0,ESTRELLA TV MIAMI - 145744
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145744
+#EXTINF:0,GOLPERU - 4841
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4841
+#EXTINF:0,MOVISTAR DEPORTES - 4830
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4830
+#EXTINF:0,MOVISTAR DEPORTES - 4840
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4840
+#EXTINF:0,WIN SPORTS - 4812
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4812
+#EXTINF:0,TNT SPORTS - 144859
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/144859
+#EXTINF:0,ESPN - 4794
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4794
+#EXTINF:0,ESPN - 135646
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135646
+#EXTINF:0,ESPN 3 - 4795
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4795
+#EXTINF:0,ESPN PREMIUM - 4787
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4787
+#EXTINF:0,ESPN EXTRA - 4941
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/4941
+#EXTINF:0,FOX SPORTS - 135645
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135645
+#EXTINF:0,FOX SPORTS2 - 145409
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145409
+#EXTINF:0,DIRECT SPORTS - 135642
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135642
+#EXTINF:0,DIRECT SPORTS 2 - 135643
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135643
+#EXTINF:0,DIRECT SPORTS 2 - 135644
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135644
+#EXTINF:0,TNT - 134706
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/134706
+#EXTINF:0,DAZN - 137918
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/137918
+#EXTINF:0,TD PLUS - 145465
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145465
+#EXTINF:0,TD PLUS 2 - 145466
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145466
+#EXTINF:0,CANAL 14 TV NORTE - 150684
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/150684
+#EXTINF:0,TICAVISION CANAL 52 HD - 137079
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/137079
+#EXTINF:0,TELESUR COSTA RICA - 135047
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135047
+#EXTINF:0,MULTIMEDIOS CANAL 6 - 125919
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125919
+#EXTINF:0,MULTIMEDIOS CANAL 8 - 135046
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/135046
+#EXTINF:0,TELETICA 7 - 125916
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125916
+#EXTINF:0,TELEUNO TV - 125913
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125913
+#EXTINF:0,REPRETEL 4 - 125908
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125908
+#EXTINF:21,REPRETEL 6 - 125907
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125907
+#EXTINF:0,REPRETEL 11 - 125906
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/125906
+#EXTINF:0,TELEMARTI - 126550
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/126550
+#EXTINF:0,TUDN - 145459
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/145459
+#EXTINF:0,AFFIZZIONADOS - 148889
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/148889
+#EXTINF:0,TVO - 152578
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/152578
+#EXTINF:0,TVM TRIBUNA SPORTS - 152949
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/152949
+#EXTINF:0,CURIOSITY - 146597
+#EXTVLCOPT:network-caching=1000
+http://00322.xyz:8000/malotv/gratis/146597
